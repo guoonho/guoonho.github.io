@@ -4,7 +4,7 @@ description: >
   Just some random tech/hobby thoughts.
 
 
-theme: no-style-please
+remote_theme: no-style-please
 theme_config:
   appearance: "light"
   back_home_text: ".."
