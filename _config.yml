@@ -1,0 +1,12 @@
+title: guoonho
+author: Kevin Chan
+description: >
+  Just some random tech/hobby thoughts.
+
+
+theme: no-style-please
+theme_config:
+  appearance: "light"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: false
