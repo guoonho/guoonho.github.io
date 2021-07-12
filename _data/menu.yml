@@ -9,11 +9,19 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: archive.html
-      
-  - title: hobby
+
+  - title: miniatures
     post_list:
       limit: 5
-      category: hobby
+      category: miniatures
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: archive.html
+
+  - title: mtg
+    post_list:
+      limit: 5
+      category: mtg
       show_more: true
       show_more_text: See more posts...
       show_more_url: archive.html
