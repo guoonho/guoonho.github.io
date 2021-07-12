@@ -1,4 +1,4 @@
 ---
-layout: archive
-title: home
+layout: home
+title: guoonho
 ---
