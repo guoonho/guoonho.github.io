@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "test minis"
-date:   2021-07-10 19:44:19 -0500
+title:  "chalky paint"
+date:   2021-07-16 00:00:00 -0800
 categories: miniatures
 ---
 
